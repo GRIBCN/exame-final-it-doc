@@ -7,8 +7,12 @@ site_description: >-
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 # Repository
-repo_name: "Versión de la documentación: 1.0.0<br>hztpserg/exame-final-it-doc"
-repo_url: https://github.com/hztpserg/exame-final-it-doc
+repo_name: GRIBCN/exame-final-it-doc
+repo_url: https://github.com/GRIBCN/exame-final-it-doc
+
+# Repository
+repo_name: hztpserg/prestashop-doc-pages
+repo_url: https://github.com/hztpserg/prestashop-doc-pages
 
 # Copyright
 copyright: "Copyright &copy; 2024 Serhii Antoniuk<br>Versión de la documentación: 1.0.0"
@@ -70,7 +74,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   logo: assets/logo.png
-  favicon: assets/prestashop.ico
+  favicon: assets/favicon.ico
 
 # Plugins
 plugins:

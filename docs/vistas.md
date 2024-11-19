@@ -4,7 +4,7 @@
 
 # 👁️ Control de Vistas
 
-En este apartado, exploraremos cómo se implementa el control de vistas en el proyecto **MVC EnlacesEnlaces de SOFTWARE**. Este control incluye desde el archivo principal `index.php` hasta los componentes que integran las vistas como el encabezado (`header.php`) y el pie de página (`footer.php`).
+En este apartado, exploraremos cómo se implementa el control de vistas en el proyecto **MVC Enlace de SOFTWARE**. Este control incluye desde el archivo principal `index.php` hasta los componentes que integran las vistas como el encabezado (`header.php`) y el pie de página (`footer.php`).
 
 ---
 

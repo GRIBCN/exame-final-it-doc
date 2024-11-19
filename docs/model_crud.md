@@ -4,7 +4,7 @@
 
 # 🗂️ Componentes Específicos del Modelo MVC. La Clase `Model_crud`
 
-Este apartado describe cómo la clase `Model_crud` implementa operaciones generales de base de datos en el proyecto **MVC Enlaces**. Esta clase se utiliza como base para crear modelos específicos que interactúan con vistas, controladores y la base de datos.
+Este apartado describe cómo la clase `Model_crud` implementa operaciones generales de base de datos en el proyecto **MVC Enlaces de SOFTWARE**. Esta clase se utiliza como base para crear modelos específicos que interactúan con vistas, controladores y la base de datos.
 
 ---
 

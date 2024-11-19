@@ -88,6 +88,7 @@ El archivo `.gitignore` asegura que los ficheros sensibles, como `.env`, no se i
     ```
 
 En este proyecto, el archivo `.gitignore`:
+
 1. **Protege Credenciales**: Ignora los archivos `.env`.
 2. **Optimiza el Repositorio**: Excluye archivos temporales, logs y carpetas generadas automáticamente (como `vendor/`).
 3. **Mantiene el Orden**: Ignora configuraciones específicas de editores de código (`.vscode/`, `.idea/`).

@@ -4,7 +4,7 @@
 
 # 🔀 Interacción entre Componentes. Implementación y el uso del Router
 
-En este apartado se detalla cómo interactúan los componentes del proyecto **MVC EnlacesEnlaces de SOFTWARE**, centrándonos en el flujo de información hacia el `Router` y su implementación. El `Router` es el núcleo encargado de interpretar las solicitudes y dirigirlas hacia las vistas correspondientes.
+En este apartado se detalla cómo interactúan los componentes del proyecto **MVC Enlaces de SOFTWARE**, centrándonos en el flujo de información hacia el `Router` y su implementación. El `Router` es el núcleo encargado de interpretar las solicitudes y dirigirlas hacia las vistas correspondientes.
 
 ---
 
