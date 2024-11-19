@@ -1,4 +1,4 @@
-# Documentación del proyecto MVC Tienda
+# Documentación del proyecto MVC Enlaces de SOFTWARE
 
 Bienvenido a la documentación del proyecto MVC Enlaces de SOFTWARE.
 

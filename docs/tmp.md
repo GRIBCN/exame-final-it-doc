@@ -1,7 +1,7 @@
 ## 📂 Estructura General del Proyecto
 ---
 
-El proyecto **MVC Tienda** está organizado en varias carpetas principales que corresponden a los tres componentes del patrón MVC y otros elementos esenciales. A continuación, se describe cada sección.
+El proyecto **MVC Enlaces de SOFTWARE** está organizado en varias carpetas principales que corresponden a los tres componentes del patrón MVC y otros elementos esenciales. A continuación, se describe cada sección.
 
 ??? info "Estructura Principal del Proyecto"
     === "Descripción"
