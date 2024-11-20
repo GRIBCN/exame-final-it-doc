@@ -1,4 +1,4 @@
-[⬅️ Volver a Inicio](index.md#documentación-del-proyecto-mvc-tienda) <!-- Enlace de regreso -->
+[⬅️ Volver a Inicio](index.md#documentación-del-proyecto-mvc-enlaces) <!-- Enlace de regreso -->
 
 ---
 
